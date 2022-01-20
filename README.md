@@ -32,12 +32,12 @@ This is an android application for our college students, so that they can access
 **Database:** Firebase
 
   
-# Hi, I'm Virushali Pachchigar! 👋
+# Hi, I'm Vrushali Pachchigar! 👋
 
   
 I'm last year IT Engineering student who is also very passionate about baking and learning new languages.
 
-## Let's connect...! 	:earth_asia:
+## Let's connect...! :earth_asia:
   <a href="https://www.linkedin.com/in/vrushali-pachchigar/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
