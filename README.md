@@ -32,37 +32,25 @@ This is an android application for our college students, so that they can access
 **Database:** Firebase
 
   
-# Hi, I'm Vishwas Acharya! 👋
+# Hi, I'm Virushali Pachchigar! 👋
 
   
-I'm a about to complete my Bachelor's of I.T Engineering, and also as a side hustule make You-Tube videos, Podcast, Blogs and more...
+I'm last year IT Engineering student who is also very passionate about baking and learning new languages.
 
-### Connect with me
-  <a href="https://twitter.com/vishwasracharya">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-  </a>&ensp;
-  <a href="https://www.linkedin.com/in/vishwasracharya">
+## Let's connect...! 	:earth_asia:
+  <a href="https://www.linkedin.com/in/vrushali-pachchigar/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
-  <a href="https://www.vishwasracharya.gitgub.io">
-    <img width="30px" src="https://img.icons8.com/fluency/48/000000/domain.png" />
+  <a href="https://twitter.com/Vrushali_32">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
-  <a href="https://www.instagram.com/vishwasracharya">
+  <a href="https://www.instagram.com/vrushxlii/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>&ensp;
-  <a href="https://t.me/vishwasacharya">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
-  </a>&ensp;
-  <a href="https://vishwasacharya.blogspot.com">
-    <img width="30px" src="https://img.icons8.com/color/48/000000/blogger.png" />
-  </a>&ensp;
-  <a href="https://youtube.com/c/VishwasAcharya">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />
-  </a>&ensp;
-  <a href="https://snapchat.com/add/vishwasracharya">
+  <a href="https://snapchat.com/add/vrushzzz">
     <img width="30px" src="https://www.vectorlogo.zone/logos/snapchat/snapchat-icon.svg" />
   </a>&ensp;
-  <a href="https://facebook.com/vishwasracharya">
+  <a href="https://www.facebook.com/vrushali.pachchigar.9">
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
   </a>
 
